@@ -1,2 +1,2 @@
-# rain_model
-This is whole end to end ml project
+# ml-model-deployment-aws-ec2
+codes related to aws ec2 deployment
